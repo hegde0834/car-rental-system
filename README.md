@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mysuru Drive – Car Rental System
 React (Vite) + PHP (PDO) + MySQL
 
@@ -35,3 +36,7 @@ Using PHP's built-in server instead: `php -S localhost:8000 -t backend` and set
 ## 6. Change the admin password
 Run in any PHP: `echo password_hash('newpass', PASSWORD_DEFAULT);`
 then `UPDATE admins SET password_hash='...' WHERE username='admin';`
+=======
+# car-rental-system
+Mysuru Drive is a full-stack self-drive car rental system built with React, PHP, and MySQL. It features an interactive fleet catalog with real vehicle photos, dynamic pricing, instant bookings, and a secure admin dashboard to manage inventory and live customer reservations with automated continuous database indexing.
+>>>>>>> c3176d82d99b52e4bfadd90ed86a10c0c2900325
